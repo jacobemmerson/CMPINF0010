@@ -14,6 +14,13 @@ The program takes input from the user, getting their name and age. After, it wil
 ---
 - To install this, all you need to do is download the python file attached to this repository
 - To use this, you simply need to run the program and follow the prompts on your screen from there
+---
+For usage in JupyterLab:
+- Open a new JupyterLab terminal 
+- In the terminal, run
+```text
+git clone https://github.com/jacobemmerson/CMPINF0010
+```
 
 ## Code
 ---
