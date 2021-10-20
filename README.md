@@ -14,7 +14,6 @@ The program takes input from the user, getting their name and age. After, it wil
 ---
 - To install this, all you need to do is download the python file attached to this repository
 - To use this, you simply need to run the program and follow the prompts on your screen from there
-- We use an open-source license, and so you must follow the Code of Contact while using this software
 
 ## Code
 ---
