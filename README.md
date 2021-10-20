@@ -1,8 +1,9 @@
 # CMPINF0010
 
-Jacob Emmerson
-Kareem Mohsen
-Will Smithgall
+## Our Team
+- Jacob Emmerson
+- Kareem Mohsen
+- Will Smithgall
 
 
 ## Our Program
