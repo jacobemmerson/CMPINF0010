@@ -35,3 +35,7 @@ age = int(input("What is your age: ")) #User input for the age
 #This will greet the user, saying hello to them and telling them their age
 print("Hello {}, you are {} years old").format(name, age)
 ```
+
+## Why this Code of Conduct and License were Chosen
+---
+We chose this license because we believe in an open source project. This license allows users to redistribute and modify the existing code at their will without fees as long as they abide by the code of conudct. The code of conduct makes sure that contributors remain open-minded and assure a harrasment-free experience for all users. Contributors who do not remian faithful to the code of conduct will be reprimanded according to the level of their behavior.
