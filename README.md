@@ -18,6 +18,7 @@ Contributors to this project must abide by the code-of-conduct and remain faithf
 ---
 - To install this, all you need to do is download the python file attached to this repository
 - To use this, you simply need to run the program and follow the prompts on your screen from there
+- We use an open-source license, and so you must follow the Code of Contact while using this software
 ---
 For usage in JupyterLab:
 - Open a new JupyterLab terminal 
